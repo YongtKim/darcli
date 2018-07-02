@@ -2,7 +2,7 @@
 title: "Title to this website"
 name: "Website name"
 keywords: "Key, words, about, this, website"
-baseurl: ""
+baseurl: "http://yongtkim.github.io/yongtkim"
 url: "http://yongtkim.github.io/yongtkim"
 description: "Website description"
 cover: "/assets/img/cover.svg"
