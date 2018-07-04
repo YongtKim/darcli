@@ -3,7 +3,7 @@ title: "Title to this website"
 name: "Website name"
 keywords: "Key, words, about, this, website"
 baseurl: ""
-url: "https://YongtKim.github.io"
+url: ""
 description: "Website description"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
@@ -20,7 +20,7 @@ ssl: false # It will redirect to https
 disqus: test
 twitter: 
 facebook: 
-github:YongtKim
+github:
 google:
 
 # Build settings
